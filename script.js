@@ -9,7 +9,6 @@ const gifs = [
   "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVkajkxazV5eXFwdm5lMjRnbzQ1amc4cndvYzRqcW5vMm9hOW0yOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fjxupFeOlzwRnhKT0b/giphy.gif",
 ];
 
-// Pick a random GIF when the page loads
 function setRandomGif() {
   const img = document.getElementById("valentine-gif");
   if (img) {

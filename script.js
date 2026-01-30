@@ -28,7 +28,7 @@ const messages = [
   "A profound, universe-sized sadness...",
   "Okay, okay, message received. I'm gone...",
   "SIKE! Final answer? Pretty please with a cherry on top? 💖",
-  "So that's your final, final, *final* answer?",
+  "So that's your final, final, FINAL answer?",
 ];
 
 function handleNoClick() {

@@ -8,6 +8,7 @@ body {
     font-family: 'Arial', sans-serif;
     flex-direction: column;
     overflow: hidden;
+    overflow-y: hidden;
   }
   
   .container {
